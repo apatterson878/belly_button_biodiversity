@@ -1,0 +1,9 @@
+div.col-md-12 {
+    display: flex;
+    align-items: center;
+    justify-content: center 
+}
+div.col-md-11 {
+    background-color: #0F4F4F4;
+}
+  
