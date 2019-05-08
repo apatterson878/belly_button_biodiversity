@@ -1,1 +1,1 @@
-web: gunicorn belly_button.app:app
+web: belly_button.app:app
